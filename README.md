@@ -47,7 +47,7 @@
 <a href="https://github.com/latesturl" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
 </a>
-<p>© 2025 LatestURL • All rights reserved</p>
+<p>© 2025 Kenz Shop • All rights reserved</p>
 </footer>
 
 ---
