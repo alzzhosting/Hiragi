@@ -11,8 +11,8 @@
 <div align="center">
   
   <!-- Stars dan Forks -->
-  [![Stars](https://img.shields.io/github/stars/latesturl/HIRAGII?style=for-the-badge&color=63a4ff)](https://github.com/latesturl/HIRAGII/stargazers)
-  [![Forks](https://img.shields.io/github/forks/latesturl/HIRAGII?style=for-the-badge&color=63a4ff)](https://github.com/latesturl/HIRAGII/network/members)
+  [![Stars](https://img.shields.io/github/stars/alzzhosting/Hiragi?style=for-the-badge&color=63a4ff)](https://github.com/alzzhosting/Hiragi/stargazers)
+  [![Forks](https://img.shields.io/github/forks/alzzhosting/Hiragi?style=for-the-badge&color=63a4ff)](https://github.com/alzzhosting/Hiragi/network/members)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 | **Profille** | **Name**              | **Role**                |
 |:---------:|:---------------------:|:-----------------------:|
-| <img src="https://avatars.githubusercontent.com/u/198647531?v=4" width="80" style="border-radius:50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" /> | **Raol Mukarrozi**      |  **founder**  |
+| <img src="https://kenz.cloudx.biz.id/download/1743865017185.jpg" width="80" style="border-radius:50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" /> | **Kenz Shop**      |  **founder**  |
 
 </div>
 
